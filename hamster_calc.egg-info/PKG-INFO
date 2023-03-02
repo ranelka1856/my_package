@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: hamster-calc
+Version: 0.1
+Summary: Calculator for hamsters
+Home-page: http://github.com/example
+Author: Ranelka
+Author-email: hamster@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Калькулятор хомяка
+
+hamster_calc - это калькулятор для хомяка
+
+---
+
+Используйте метод **position_size**, 
+чтобы рассчитать сумму для входа в позицию.
+
+При вызове метода вам надо указать 4 переменные: 
+
+_Ваш баланс, цену входа, цену стопа, кредитное плечо и процент потери_
+
+---
+
+Используйте метод **price_distance**,
+чтобы рассчитать цену стопа, зная процент движения цены.
+При вызове метода вам надо указать 3 переменные: 
+
+_Текущая цена, процент движения и тип позы: лонг/шорт = 1/0_
+
+

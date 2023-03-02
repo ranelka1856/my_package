@@ -1,0 +1,7 @@
+setup.py
+hamster_calc/__init__.py
+hamster_calc/calc.py
+hamster_calc.egg-info/PKG-INFO
+hamster_calc.egg-info/SOURCES.txt
+hamster_calc.egg-info/dependency_links.txt
+hamster_calc.egg-info/top_level.txt
